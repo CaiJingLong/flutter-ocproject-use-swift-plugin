@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - swift_plugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - swift_plugin (from `.symlinks/plugins/swift_plugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  swift_plugin:
+    :path: ".symlinks/plugins/swift_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  swift_plugin: befaa593f23d482b04373628a59fe4200299faa7
+
+PODFILE CHECKSUM: b586017030cbeb5dc476e5ccacff1b1e7f2a1692
+
+COCOAPODS: 1.7.1
